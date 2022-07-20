@@ -50,4 +50,3 @@ output/Release
 *.json
 *.ifc
 *.command
-*.vsidx
